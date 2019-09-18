@@ -15,7 +15,5 @@ int main(){
 			dividend /= a;
 		}
 	}
-	getchar();
-	getchar();
 	return 0;
 } 
