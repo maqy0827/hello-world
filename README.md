@@ -23,4 +23,6 @@
 试一下换行
 `
 很快乐<tr>
-
+好耶
+    $\Delta L=2 n_{2} d \cos \theta \pm \lambda / 2$
+    \Delta L=2 n_{2} d \cos \theta \pm \lambda / 2
