@@ -27,3 +27,8 @@
     $\Delta L=2 n_{2} d \cos \theta \pm \lambda / 2$
     \Delta L=2 n_{2} d \cos \theta \pm \lambda / 2
 ![haoye](http://latex.codecogs.com/gif.latex?\frac{\partial J}{\partial \theta_k^{(j)}}=\sum_{i:r(i,j)=1}{\big((\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\big)x_k^{(i)}}+\lambda \theta_k^{(j)})
+    
+    
+> - 测试
+> 测试
+> 测试
